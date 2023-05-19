@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Note 1",
+      "content": "This is the content of Note 1.",
+      "dueDate": "2023-01-01",
+      "teammates": "John Doe",
+      "reminder": "15"
+    },
+    {
+      "id": 2,
+      "title": "Note 2",
+      "content": "This is the content of Note 2.",
+      "dueDate": "2023-02-15",
+      "teammates": "Jane Smith",
+      "reminder": "10"
+    },
+    {
+      "id": 3,
+      "title": "Note 3",
+      "content": "This is the content of Note 3.",
+      "dueDate": "2023-03-30",
+      "teammates": "Alex Johnson",
+      "reminder": "5"
+    }
+  ]
+}
