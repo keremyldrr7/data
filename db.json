@@ -17,10 +17,10 @@
   },
   "notes": {
       "id": 1,
-      "title": "Note 1",
-      "content": "This is the content of Note 1.",
-      "dueDate": "2023-01-01",
-      "teammates": "John Doe",
-      "reminder": "15"
+      "title": "CS391 Project",
+      "content": "Do your CS391 project assignment, which is a React.js project similar to Google Keep.",
+      "dueDate": "2023-05-27",
+      "teammates": "Me, Myself & I",
+      "reminder": "1 Hour Before"
     }
 }
